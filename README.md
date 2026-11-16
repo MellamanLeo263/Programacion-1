@@ -10,3 +10,4 @@ El jugador que haga mas pero menos de 21 puntos gana, juego offline
 
 GenioYfiguras:
 Crea figuras automatizadas con codigo python
+
